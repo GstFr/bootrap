@@ -1,0 +1,23 @@
+
+*{
+    font-family: Inconsolata;
+}
+header{
+    background-image: url(../repositorio/imagenes/images\ \(1\).jpeg);
+    background-size: cover;
+
+}
+.container{ background-color:rgba(24, 90, 90, 0.674) ;
+
+}
+#logo{
+    width: 100px;
+}
+footer{
+    background-color: rgba(24, 90, 90, 0.674);
+}
+#contac{
+    color: black;
+}
+
+
